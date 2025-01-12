@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Ortega
-- 👀 I’m interested in Application development in general.
-- 🌱 I’m currently learning Java, Javascript, HTML/CSS, MySQL
-- 💞️ I’m looking to collaborate on Java, Javascript, HTML/CSS, MySQL
+- 👀 I’m interested in Data Analytics in general.
+- 🌱 I’m currently learning Python, SQL and Power BI.
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me my and my twitter account @ryor310575 and my instagram account is @ryanortegariosblog
